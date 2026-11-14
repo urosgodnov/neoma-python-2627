@@ -1,0 +1,61 @@
+order_id,order_date,region,product,units,unit_price
+O-01-0001,2026-01-25,East,Pen set,10,42.42
+O-01-0002,2026-01-01,West,Backpack,6,18.97
+O-01-0003,2026-01-06,North,Planner,11,43.93
+O-01-0004,2026-01-13,South,Pen set,7,49.98
+O-01-0005,2026-01-15,West,Backpack,3,52.78
+O-01-0006,2026-01-27,North,Planner,4,45.4
+O-01-0007,2026-01-12,East,Desk lamp,2,16.66
+O-01-0008,2026-01-04,East,Notebook,2,47.48
+O-01-0009,2026-01-16,West,Notebook,4,18.28
+O-01-0010,2026-01-05,North,Notebook,3,50.77
+O-01-0011,2026-01-12,West,Notebook,6,31.31
+O-01-0012,2026-01-26,West,Notebook,12,28.36
+O-01-0013,2026-01-02,South,Planner,6,39.06
+O-01-0014,2026-01-24,North,Backpack,1,37.79
+O-01-0015,2026-01-19,West,Desk lamp,5,55.44
+O-01-0016,2026-01-15,North,Planner,6,28.23
+O-01-0017,2026-01-14,East,Pen set,4,14.03
+O-01-0018,2026-01-17,West,Backpack,6,57.01
+O-01-0019,2026-01-12,East,Backpack,2,13.89
+O-01-0020,2026-01-10,South,Notebook,2,41.87
+O-01-0021,2026-01-22,West,Desk lamp,2,47.5
+O-01-0022,2026-01-18,West,Pen set,9,39.44
+O-01-0023,2026-01-02,South,Pen set,8,22.6
+O-01-0024,2026-01-05,North,Notebook,1,45.68
+O-01-0025,2026-01-12,West,Pen set,11,26.65
+O-01-0026,2026-01-24,East,Desk lamp,7,43.13
+O-01-0027,2026-01-05,East,Pen set,10,44.47
+O-01-0028,2026-01-16,North,Planner,9,52.02
+O-01-0029,2026-01-03,North,Pen set,10,18.36
+O-01-0030,2026-01-12,West,Planner,7,50.98
+O-01-0031,2026-01-03,South,Desk lamp,9,16.36
+O-01-0032,2026-01-03,North,Planner,7,33.84
+O-01-0033,2026-01-10,North,Pen set,8,25.72
+O-01-0034,2026-01-04,East,Desk lamp,12,37.71
+O-01-0035,2026-01-08,West,Backpack,10,22.81
+O-01-0036,2026-01-18,East,Backpack,10,34.11
+O-01-0037,2026-01-02,North,Backpack,8,17.03
+O-01-0038,2026-01-13,West,Planner,10,8.47
+O-01-0039,2026-01-28,North,Pen set,12,49.14
+O-01-0040,2026-01-09,North,Planner,8,6.48
+O-01-0041,2026-01-12,West,Backpack,8,20.97
+O-01-0042,2026-01-05,North,Planner,1,20.54
+O-01-0043,2026-01-09,North,Pen set,4,33.05
+O-01-0044,2026-01-13,North,Notebook,5,19.75
+O-01-0045,2026-01-18,South,Planner,10,34.61
+O-01-0046,2026-01-09,West,Backpack,11,59.3
+O-01-0047,2026-01-16,East,Backpack,5,4.8
+O-01-0048,2026-01-07,South,Backpack,1,5.66
+O-01-0049,2026-01-27,North,Desk lamp,2,39.22
+O-01-0050,2026-01-18,East,Desk lamp,6,54.13
+O-01-0051,2026-01-05,North,Notebook,6,56.2
+O-01-0052,2026-01-05,North,Planner,3,5.74
+O-01-0053,2026-01-11,East,Backpack,12,31.19
+O-01-0054,2026-01-04,South,Desk lamp,5,45.64
+O-01-0055,2026-01-17,North,Planner,3,15.49
+O-01-0056,2026-01-08,South,Desk lamp,12,18.04
+O-01-0057,2026-01-09,West,Planner,2,54.59
+O-01-0058,2026-01-03,South,Desk lamp,12,12.31
+O-01-0059,2026-01-15,North,Desk lamp,10,37.36
+O-01-0060,2026-01-25,West,Planner,7,15.69

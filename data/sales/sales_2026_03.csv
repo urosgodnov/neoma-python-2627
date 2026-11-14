@@ -1,0 +1,61 @@
+order_id;order_date;region;product;units;unit_price
+O-03-0001;2026-03-23;West;Desk lamp;12; 3,09
+O-03-0002;2026-03-22;South;Backpack;12;58,20
+O-03-0003;2026-03-07;West;Planner;1;59,50
+O-03-0004;2026-03-14;North;Backpack;9;40,40
+O-03-0005;2026-03-19;North;Pen set;4;28,64
+O-03-0006;2026-03-11;South;Desk lamp;9; 4,77
+O-03-0007;2026-03-04;South;Planner;6;29,06
+O-03-0008;2026-03-12;North;Backpack;2;55,18
+O-03-0009;2026-03-21;West;Desk lamp;5;17,90
+O-03-0010;2026-03-10;South;Backpack;4;29,81
+O-03-0011;2026-03-09;East;Planner;12;18,11
+O-03-0012;2026-03-22;South;Pen set;10;36,64
+O-03-0013;2026-03-20;North;Notebook;3;11,06
+O-03-0014;2026-03-25;North;Pen set;11;55,30
+O-03-0015;2026-03-04;East;Desk lamp;4;45,77
+O-03-0016;2026-03-22;East;Backpack;3;40,48
+O-03-0017;2026-03-15;East;Planner;7;55,06
+O-03-0018;2026-03-12;South;Desk lamp;7;59,70
+O-03-0019;2026-03-17;South;Backpack;2;28,74
+O-03-0020;2026-03-04;South;Notebook;12;20,06
+O-03-0021;2026-03-16;East;Backpack;10;32,11
+O-03-0022;2026-03-16;East;Planner;12;39,35
+O-03-0023;2026-03-06;West;Planner;10;42,57
+O-03-0024;2026-03-28;South;Backpack;10;41,91
+O-03-0025;2026-03-21;North;Planner;1;53,76
+O-03-0026;2026-03-05;North;Backpack;11;47,79
+O-03-0027;2026-03-18;South;Planner;4;24,65
+O-03-0028;2026-03-02;West;Notebook;10;48,43
+O-03-0029;2026-03-15;West;Desk lamp;12;48,62
+O-03-0030;2026-03-19;East;Planner;9;43,38
+O-03-0031;2026-03-14;West;Pen set;1;44,59
+O-03-0032;2026-03-16;North;Notebook;1; 9,10
+O-03-0033;2026-03-24;East;Desk lamp;7;51,47
+O-03-0034;2026-03-22;East;Backpack;1;22,36
+O-03-0035;2026-03-15;North;Pen set;11;47,52
+O-03-0036;2026-03-19;West;Planner;11;33,11
+O-03-0037;2026-03-17;South;Backpack;8;32,87
+O-03-0038;2026-03-23;North;Pen set;4;20,70
+O-03-0039;2026-03-20;North;Notebook;4; 7,40
+O-03-0040;2026-03-16;North;Planner;7;38,70
+O-03-0041;2026-03-12;West;Pen set;6;22,91
+O-03-0042;2026-03-05;West;Desk lamp;8;15,13
+O-03-0043;2026-03-09;South;Desk lamp;8;56,89
+O-03-0044;2026-03-16;East;Desk lamp;2;49,62
+O-03-0045;2026-03-24;South;Desk lamp;1;14,61
+O-03-0046;2026-03-13;South;Desk lamp;11;36,19
+O-03-0047;2026-03-14;South;Notebook;11;30,14
+O-03-0048;2026-03-05;East;Planner;10;43,36
+O-03-0049;2026-03-13;North;Backpack;2;16,06
+O-03-0050;2026-03-03;South;Pen set;9;26,50
+O-03-0051;2026-03-20;North;Planner;7;44,16
+O-03-0052;2026-03-27;East;Desk lamp;2;17,12
+O-03-0053;2026-03-23;West;Pen set;4;30,26
+O-03-0054;2026-03-10;East;Notebook;3;55,89
+O-03-0055;2026-03-18;West;Desk lamp;4;37,71
+O-03-0056;2026-03-18;West;Pen set;1;14,07
+O-03-0057;2026-03-09;North;Desk lamp;11;59,55
+O-03-0058;2026-03-16;South;Notebook;3;15,07
+O-03-0059;2026-03-10;East;Notebook;7;37,02
+O-03-0060;2026-03-13;South;Planner;6;17,06
